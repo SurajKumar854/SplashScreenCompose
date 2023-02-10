@@ -45,7 +45,7 @@ fun IntroMessageF(message: String) {
         fontWeight = FontWeight.Bold,
         textAlign = TextAlign.Center,
         modifier = Modifier.padding(12.dp)
-
+//
     )
 }
 
